@@ -795,14 +795,14 @@
   </url>
   
   <url>
-    <loc>https://deepcooking.cn/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</loc>
+    <loc>https://deepcooking.cn/tags/Palindromic/</loc>
     <lastmod>2021-05-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://deepcooking.cn/tags/Palindromic/</loc>
+    <loc>https://deepcooking.cn/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</loc>
     <lastmod>2021-05-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -830,6 +830,13 @@
   </url>
   
   <url>
+    <loc>https://deepcooking.cn/tags/Union-Find/</loc>
+    <lastmod>2021-05-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://deepcooking.cn/tags/quick-select/</loc>
     <lastmod>2021-05-19</lastmod>
     <changefreq>daily</changefreq>
@@ -838,13 +845,6 @@
   
   <url>
     <loc>https://deepcooking.cn/tags/top-k/</loc>
-    <lastmod>2021-05-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://deepcooking.cn/tags/Union-Find/</loc>
     <lastmod>2021-05-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
